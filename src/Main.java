@@ -30,6 +30,33 @@ public class Main {
             System.out.println(c);
         }
 
+        // Домашнее задание - 2. Циклы Урок 1
+        System.out.println("Домашнее задание - 2. Циклы Урок 1");
+
+
+        //Задание 1
+        System.out.println("Задание 1");
+
+        for (int d = 1904; d < 2096; d = d + 4) {
+            System.out.println(d + " год является високосным");
+        }
+
+        // Задание 2
+        System.out.println("Задание 2");
+
+        for (int e = 7; e <= 98; e = e + 7) {
+            System.out.println(e);
+        }
+
+        // Задание 3
+        System.out.println("Задание 3");
+
+        for (int f = 1; f <= 512; f = f * 2) {
+            System.out.println(f);
+        }
+
+
+
 
     }
 }
