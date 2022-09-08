@@ -55,6 +55,24 @@ public class Main {
             System.out.println(f);
         }
 
+        // Домашнее задание - 3. Циклы Урок 1
+        System.out.println("Домашнее задание - 3. Циклы Урок 1");
+
+        // Задание 1
+        System.out.println("Задание 1");
+
+        int salary = 29000;
+        int total = 0;
+        for (int g = 1; g <= 12; g++) {
+            total = total + salary;
+            System.out.println("Месяц " + g + " , сумма накоплений равна " + total );
+        }
+
+        // Задание 2
+        System.out.println("Задание 2");
+
+        
+
 
 
 
